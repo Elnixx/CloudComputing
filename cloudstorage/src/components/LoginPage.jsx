@@ -24,7 +24,7 @@ function LoginPage() {
 
   return (
     <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "100vh", backgroundColor: "#2e2e3a" }}>
-      <div style={{ width: "400px", padding: "20px", background: "#3d3d4d", borderRadius: "10px", boxShadow: "0 4px 10px rgba(0,0,0,0.3)" }}>
+      <div style={{ width: "400px", padding: "85px", background: "#3d3d4d", borderRadius: "10px", boxShadow: "0 4px 10px rgba(0,0,0,0.3)" }}>
         <h2 style={{ textAlign: "center", color: "#fff" }}>Create an Account</h2>
         <form onSubmit={handleSubmit}>
           <div style={{ marginBottom: "15px" }}>
