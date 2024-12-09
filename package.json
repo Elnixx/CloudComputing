@@ -1,0 +1,22 @@
+{
+  "name": "cloudcomputing",
+  "version": "1.0.0",
+  "description": "Project Cloud Storage Front-End = React.Js Back-End = Laravel Hardware = (Optional) Server = VirtualBox",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elnixx/CloudComputing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elnixx/CloudComputing/issues"
+  },
+  "homepage": "https://github.com/Elnixx/CloudComputing#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  }
+}

@@ -1,0 +1,15 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.first-article {
+    margin: 2em;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: flex-end; /* Aligns the nav to the right */
+    padding: 1rem; /* Optional: Add some padding */
+}
